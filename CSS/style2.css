@@ -13,3 +13,8 @@ ol{color:rgb(68,37,1);}
 ul{color:rgb(68,37,1);}
 .correct{background-color:rgb(213,166,189);color:rgb(68,37,1);font-size:24px}
 .change{font-size:32px;background-color:rgb(213,166,189);color:rgb(68,37,1)}
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+}

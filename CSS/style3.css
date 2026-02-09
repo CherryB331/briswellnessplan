@@ -15,3 +15,7 @@ ul{color:rgb(68,37,1);}
 .change{font-size:32px;background-color:rgb(213,166,189);color:rgb(68,37,1)}
 .shrink{font-size:24px;}
 .ending{background-color:rgb(248,245,236);}
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;}
+}

@@ -21,3 +21,8 @@ a{color:rgb(56,118,29);}
 .underline{text-decoration: underline;}
 .divider{background-color:rgb(68,37,1);color:rgb(68,37,1);}
 .change{background-color: rgb(248,245,236);color:rgb(56,118,29);font-size:32px;}
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+}
