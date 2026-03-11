@@ -14,3 +14,6 @@ console.log(HasWonChampionship);
 console.log(league);
 console.log(city);
 console.log(team);
+let food = ["Pizza", "Burgers", "Chicken", "Sushi"];
+console.log (food)
+food.push("Tacos");
